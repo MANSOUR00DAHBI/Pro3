@@ -3,4 +3,4 @@
 *.un~
 *.orig~
 *.orig
-*..~
+*.gitignore~
