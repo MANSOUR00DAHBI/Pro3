@@ -1,5 +1,6 @@
 #file ignore 
-.c~
-.un~
-.orig~
-
+*.c~
+*.un~
+*.orig~
+*.orgi
+*.~
